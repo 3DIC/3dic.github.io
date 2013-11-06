@@ -1,0 +1,27 @@
+---
+layout: post
+title: Micron Technology ships first samples of Hybrid Memory Cube
+---
+
+HMC in Volume Production Planned for 2014.
+
+
+## Micron Technology ships first samples of Hybrid Memory Cube
+
+![](http://www.micron.com/~/media/Images/Content%20Images/content_image_hmc_layers_w_labels.jpg)
+
+Micron Technology, Inc. (Nasdaq:MU), announced that it is shipping 2GB Hybrid Memory Cube (HMC) engineering samples. HMC represents a dramatic step forward in memory technology, and these engineering samples are the world's first HMC devices to be shared broadly with lead customers. HMC is designed for applications requiring high-bandwidth access to memory, including data packet processing, data packet buffering or storage, and computing applications such as processor accelerators. Micron expects future generations of HMC to migrate to consumer applications within three to five years.
+
+An industry breakthrough, HMC uses advanced through-silicon vias (TSVs)—vertical conduits that electrically connect a stack of individual chips—to combine high-performance logic with Micron's state-of-the-art DRAM. Micron's HMC features a 2GB memory cube that is composed of a stack of four 4Gb DRAM die. The solution provides an unprecedented 160 GB/s of memory bandwidth while using up to 70 percent less energy per bit than existing technologies, which dramatically lowers customers' total cost of ownership (TCO).
+
+"The Hybrid Memory Cube is a smart fix that breaks with the industry's past approaches and opens up new possibilities," said Jim Handy, a memory analyst at Objective Analysis. "Although DRAM internal bandwidth has been increasing exponentially, along with logic's thirst for data, current options offer limited processor-to-memory bandwidth and consume significant power. HMC is an exciting alternative."
+
+HMC's abstracted memory enables designers to devote more time to leveraging HMC's revolutionary features and performance and less time to navigating the multitude of memory parameters required to implement basic functions. It also manages error correction, resiliency, refresh, and other parameters exacerbated by memory process variation.
+
+"System designers are looking for new memory system designs to support increased demand for bandwidth, density, and power efficiency," said Brian Shirley, vice president of Micron's DRAM Solutions Group. "HMC represents the new standard in memory performance; it's the breakthrough our customers have been waiting for."
+
+HMC has been recognized by industry leaders and influencers as the long-awaited answer to the growing gap between the performance improvement rate of DRAM and processor data consumption rates. Micron's HMC was recently named Memory Product of the Year by leading electronics publications, EDN and EE Times.
+
+Micron expects 4GB HMC engineering samples to be available in early 2014 with volume production of both the 2GB and 4GB HMC devices beginning later in 2014.
+
+More about [HMC](http://www.micron.com/products/hybrid-memory-cube)
