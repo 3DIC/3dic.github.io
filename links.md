@@ -1,5 +1,5 @@
 ---
-permalink: about.html
+permalink: links.html
 layout: default
 title: 3DIC Links
 ---
