@@ -1,4 +1,5 @@
 # About
+3DIC主页
 
 This is the data for Jason Rudolph's [blog](http://jasonrudolph.com/blog "http://jasonrudolph.com/blog") and [website](http://jasonrudolph.com "http://jasonrudolph.com").
 I use [Jekyll](http://github.com/mojombo/jekyll) to transform the content of this repo into the static site hosted at [jasonrudolph.com](http://jasonrudolph.com "http://jasonrudolph.com").
