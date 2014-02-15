@@ -19,5 +19,4 @@ http://www.ime.ac.cn
 * 2005 – 2009：
 Huazhong University of Science and Technology (HUST),
 Bachelor's degree, Electronic Sci. & Tech.
-http://est.hust.edu.cn/english/about.asp
-http://oei.hust.edu.cn/
+http://est.hust.edu.cn/english/about.asp, http://oei.hust.edu.cn/
