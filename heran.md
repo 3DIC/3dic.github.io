@@ -1,5 +1,5 @@
 ---
-permalink: links.html
+permalink: heran.html
 layout: default
 title: HE Ran
 ---
