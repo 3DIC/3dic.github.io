@@ -1,6 +1,6 @@
 ---
 permalink: heran.html
-layout: default
+layout: heran
 title: HE Ran
 ---
 赫然的个人主页
