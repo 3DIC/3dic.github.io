@@ -4,7 +4,7 @@ layout: default
 title: 3D Technologies
 ---
 
-| Technology  | Methods  |
+| Technology  | Keywords  |
 | :------------ |:---------------|
-|[Wafer bonding](/wafer bonding) | [Cu-Cu bonding](/Cu-Cu bodning), [Dielectric bonding](/dielectric bonding) |
-|[Through-silicon vias](/TSVs)| TSVs filling        |
+|[Wafer bonding](/wafer bonding) | [Cu bonding](/Cu bodning), [Dielectric bonding](/dielectric bonding), [Surface actiavted bonding (SAB)](/SAB), [Thermo-compression bonding](/thermo-compression bonding) |
+|[Through-silicon vias](/TSVs)| [Deep reactive-ion etching (DRIE)] (/DRIE), TSVs filling        |
