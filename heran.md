@@ -11,7 +11,7 @@ Ran He (赫然) now is a special resercher at The University of Tokyo, with a co
 ###Education
 * 2012 – 2016：
 The University of Tokyo,
-Ph.D. student, Low temperature wafer bonding using surface activated bonding (SAB) method, 
+Ph.D., Low temperature wafer bonding using surface activated bonding (SAB) method, 
 http://www.su.t.u-tokyo.ac.jp
 
 * 2009 – 2012：
