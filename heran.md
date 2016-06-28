@@ -5,6 +5,8 @@ title: Ran HE 赫然
 ---
 Ran He (赫然) now is a sepcial resercher at The University of Tokyo, with a concentration in surface activated bonding (SAB) method for low-temperature wafer bonding in 3D integration.
 
+----
+
 ###Education
 * 2012 – 2016：
 The University of Tokyo,
@@ -20,6 +22,8 @@ http://www.ime.ac.cn
 Huazhong University of Science and Technology (HUST),
 Bachelor's degree, Electronic Sci. & Tech., 
 http://est.hust.edu.cn/english/about.asp, http://oei.hust.edu.cn/
+
+----
 
 ###Publications - Journal
 1. **R. He**, M. Fujino, A. Yamauchi, and T. Suga, “Combined surface-activated bonding technique for low-temperature hydrophilic direct wafer bonding,” Japanese Journal of Applied Physics, vol. 55, no. 4S, p. 04EC02, Apr. 2016. Available: http://dx.doi.org/10.7567/JJAP.55.04EC02
