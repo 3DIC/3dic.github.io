@@ -25,7 +25,7 @@ http://est.hust.edu.cn/english/about.asp, http://oei.hust.edu.cn/
 
 ----
 
-###Publications - Journal
+###Selected Publications
 1. **R. He**, M. Fujino, A. Yamauchi, and T. Suga, “[Combined surface-activated bonding technique for low-temperature hydrophilic direct wafer bonding](http://dx.doi.org/10.7567/JJAP.55.04EC02),” Japanese Journal of Applied Physics, vol. 55, no. 4S, p. 04EC02, Apr. 2016. doi: 10.7567/JJAP.55.04EC02
 
 2. **R. He**, M. Fujino, A. Yamauchi, Y. Wang, and T. Suga, “[Combined Surface Activated Bonding Technique for Low-Temperature Cu/Dielectric Hybrid Bonding](http://dx.doi.org/10.1149/2.0201607jss),” ECS Journal of Solid State Science and Technology, vol. 5, no. 7, pp. P419–P424, 2016. doi: 10.1149/2.0201607jss
