@@ -3,7 +3,7 @@ permalink: heran.html
 layout: heran
 title: Ran HE 赫然
 ---
-Ran He (赫然) now is a special resercher at The University of Tokyo, with a concentration in surface activated bonding (SAB) technique for low-temperature wafer bonding in 3D integration. His linkedin page link is [https://www.linkedin.com/in/heran]https://www.linkedin.com/in/heran).
+Ran He (赫然) now is a special resercher at The University of Tokyo, with a concentration in surface activated bonding (SAB) technique for low-temperature wafer bonding in 3D integration. His Linkedin page link is https://www.linkedin.com/in/heran
 
 ----
 
