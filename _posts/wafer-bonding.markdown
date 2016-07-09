@@ -1,6 +1,6 @@
 ---
 permalink: wafer-bonding
-layout: default
+layout: post
 title: Wafer Bonding
 ---
 
