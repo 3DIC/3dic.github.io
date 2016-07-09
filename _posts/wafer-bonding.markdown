@@ -1,6 +1,8 @@
 ---
-layout: post
-title: Wafer bonding
+permalink: wafer-bonding
+layout: default
+title: Wafer Bonding
 ---
+
 
 ###Wafer Bonding
